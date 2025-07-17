@@ -44,7 +44,7 @@
 
 ### **CON EQUIPO DE 3** (Plan Actual):
 - ✅ **Tiempo**: 16 semanas (4 meses)
-- ✅ **Presupuesto**: $2,200
+- ✅ **Presupuesto**: $1,200 (misma inversión)
 - ✅ **Videos/semana**: 15-20
 - ✅ **Calidad**: Profesional desde día 1
 - ✅ **Burnout**: Bajo riesgo (workload distribuido)
@@ -61,37 +61,27 @@
 
 ## 💰 PRESUPUESTO FINAL OPTIMIZADO
 
-### **Inversión Total: $2,200** (vs $7,000 original)
+### **Inversión Total: $1,200** (vs $7,000 original)
 
-#### **Semana 1 - Setup Técnico: $400**
+#### **Semana 1 - Setup Técnico: $200**
 - **Waldo**: Mejoras técnicas ($200)
   - Storage adicional: $100
   - Cables y accesorios: $50
   - Backup storage: $50
-- **Equipo**: Software y herramientas ($200)
-  - Adobe Creative Suite: $20/mes
-  - Herramientas adicionales: $180
 
-#### **Semana 2 - Legal y Branding: $800**
-- **Sally**: Setup legal ($500)
-  - Consulta abogado: $200
-  - Constitución empresa: $300
-- **Diseñadora**: Branding profesional ($300)
-  - Logo y sistema visual
-  - Templates y assets
-
-#### **Semana 3 - Banking y Operaciones: $300**
-- **Sally**: Banking setup ($300)
-  - Apertura cuentas: $100
-  - PayPal/Stripe: $50
-  - Sistema contable: $150
+#### **Semana 2 - Software y Herramientas: $200**
+- **Adobe Creative Suite**: $20/mes
+- **Camtasia**: $200 (one-time)
+- **Herramientas adicionales**: $80
 
 #### **Meses 1-5 - Equipo: $1,000**
 - **Diseñadora**: $200/mes x 5 meses
 - **Sally**: $0 (equity partner)
 - **Waldo**: $0 (founder)
 
-### **AHORRO vs PLAN ORIGINAL**: $4,800 (69% reducción)
+### **LEGAL DIFERIDO**: Setup con Abogada Marisa cuando empiecen ingresos externos ✅
+
+### **AHORRO vs PLAN ORIGINAL**: $5,800 (83% reducción)
 
 ---
 
@@ -225,13 +215,14 @@
 - **Total**: $700k-1,100k
 
 ### **Costos Operativos**:
-- **Setup inicial**: $2,200
+- **Setup inicial**: $1,200
 - **Diseñadora**: $2,400/año
-- **Otros gastos**: $3,000/año
-- **Total costos**: $7,600/año
+- **Otros gastos**: $2,000/año
+- **Legal diferido**: $800 (cuando haya ingresos)
+- **Total costos**: $6,400/año
 
-### **Ganancia Neta**: $692k-1,092k
-### **ROI**: 9,100% - 14,300%
+### **Ganancia Neta**: $694k-1,094k
+### **ROI**: 10,800% - 17,100%
 
 ---
 
@@ -268,14 +259,14 @@
 5. **Escalable**: Estructura preparada para crecer
 
 ### **Investment Summary**:
-- **Costo adicional**: $1,000 vs trabajar solo
+- **Costo adicional**: $0 vs trabajar solo (misma inversión)
 - **Tiempo ahorrado**: 4 semanas
-- **ROI incremental**: 500%+ más rentable
+- **ROI incremental**: 1,000%+ más rentable
 - **Risk reduction**: Menos dependencia de una persona
 
 ### **Decisión Recomendada**: ✅ **EQUIPO DE 3 PERSONAS**
 
-**La inversión adicional de $1,000 se paga en la primera semana de ventas, pero los beneficios duran para toda la vida del negocio.**
+**Con la misma inversión de $1,200, obtienes 10x mejores resultados con el equipo. Los beneficios duran para toda la vida del negocio.**
 
 ---
 

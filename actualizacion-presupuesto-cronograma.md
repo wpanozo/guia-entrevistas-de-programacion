@@ -21,9 +21,9 @@
 
 ## 💰 PRESUPUESTO ACTUALIZADO CON EQUIPO
 
-### **Inversión Total: $2,200** (vs $7,000 original)
+### **Inversión Total: $1,200** (vs $7,000 original)
 
-#### **Semana 1: Mejoras Técnicas ($400)**
+#### **Semana 1: Mejoras Técnicas ($200)**
 - **Storage adicional**: $100
   - Tarjetas SD rápidas 64GB x2
   - Para backup y redundancia
@@ -33,37 +33,21 @@
 - **Backup storage**: $50
   - Disco externo 2TB
   - Seguridad de contenido
-- **Software básico**: $200
-  - Adobe Creative Suite: $20/mes
-  - Canva Pro: $15/mes
-  - Herramientas adicionales: $165
 
-#### **Semana 2: Setup Legal ($500)**
-- **Consulta legal**: $200
-  - Abogado especialista Paraguay
-  - Definir estructura óptima
-- **Constitución empresa**: $300
-  - Trámites legales básicos
-  - Documentación fiscal
-
-#### **Semana 3: Banking y Financiero ($300)**
-- **Apertura cuentas**: $100
-  - Banco paraguayo
-  - Cuenta empresarial
-- **Setup payments**: $50
-  - PayPal Business
-  - Stripe alternativo
-- **Sistema contable**: $150
-  - QuickBooks o similar
-  - Organización fiscal
+#### **Semana 2: Software y Herramientas ($200)**
+- **Adobe Creative Suite**: $20/mes
+- **Camtasia**: $200 (one-time)
+- **Herramientas adicionales**: $80
 
 #### **Equipo y Operaciones (4 meses): $1,000**
 - **Diseñadora**: $200/mes x 5 meses = $1,000
 - **Sally**: $0 (equity partner)
 - **Waldo**: $0 (founder)
 
-### **AHORRO TOTAL: $4,800** 🎉 (vs plan original)
-### **ROI MEJORADO**: 27,000% - 45,000% vs 5,000% - 9,000%
+### **LEGAL DIFERIDO**: Setup con Abogada Marisa cuando empiecen ingresos externos ✅
+
+### **AHORRO TOTAL: $5,800** 🎉 (vs plan original)
+### **ROI MEJORADO**: 50,000% - 83,000% vs 5,000% - 9,000%
 
 ---
 
@@ -319,8 +303,9 @@
 - **Total investment tiempo**: 960 horas (60h/semana x 16 semanas)
 - **ROI esperado**: $600,000-1,000,000 primer año
 - **Hourly rate equivalent**: $625-1,040/hora
-- **Ahorro por equipo existente**: $4,800
+- **Ahorro por equipo existente**: $5,800
 - **Calidad profesional**: Desde día 1 vs curva de aprendizaje
+- **Legal diferido**: $800 ahorrados hasta tener ingresos
 
 ---
 
@@ -350,7 +335,7 @@
 
 ### **Presupuesto**: 
 - ❌ **Antes**: $7,000
-- ✅ **Ahora**: $2,200 (69% reducción)
+- ✅ **Ahora**: $1,200 (83% reducción)
 
 ### **Cronograma**: 
 - ❌ **Antes**: 12 semanas tiempo completo
@@ -369,13 +354,13 @@
 - ✅ **Ahora**: Workload distribuido, especialización
 
 ### **ROI**: 
-- ❌ **Antes**: $69-139/hora
-- ✅ **Ahora**: $625-1,040/hora
+- ❌ **Antes**: $69-139/hora (trabajando solo)
+- ✅ **Ahora**: $625-1,040/hora (con equipo)
 
 **Este plan con equipo es superior en todos los aspectos: más rápido, mejor calidad, menos burnout y mayor ROI.** 🚀
 
 ---
 
-*"La mejor inversión que puedes hacer es en ti mismo. Con $2,200 y 960 horas de trabajo inteligente en equipo, puedes construir un negocio que genere $600k-1M anuales."*
+*"La mejor inversión que puedes hacer es en ti mismo. Con $1,200 y 960 horas de trabajo inteligente en equipo, puedes construir un negocio que genere $600k-1M anuales."*
 
 **¿Estás listo para empezar esta semana?** 💪
