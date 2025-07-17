@@ -93,19 +93,13 @@
 
 ## 💰 Presupuesto Detallado por Meses
 
-### **Mes 1: Setup Inicial ($3,500)**
+### **Mes 1: Setup Inicial ($1,200)**
 
-#### Equipamiento y Software:
-- **Audio Setup**: $800
-  - Micrófono Rode PodMic ($199)
-  - Audio interface Focusrite Scarlett Solo ($120)
-  - Boom arm + shock mount ($80)
-  - Acoustic treatment basic ($400)
+#### Equipamiento y Software (REDUCIDO - Ya tienes base):
+- **Mejoras Audio/Video**: $200
+  - Accesorios y cables adicionales ($100)
+  - Storage adicional y tarjetas SD ($100)
 
-- **Video Enhancement**: $600
-  - Lighting kit LED professional ($300)
-  - Tripod + accessories ($150)
-  - Green screen setup ($150)
 
 - **Software y Servicios**: $400
   - Adobe Creative Suite (año) ($240)
